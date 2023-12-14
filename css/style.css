@@ -18,13 +18,16 @@ body {
   width: 1100px;
   background-color: #ffffff;
   margin: 20px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  /* border-top: 3px solid #ff7145; */
+  /* border-right: 3px solid #ff7145; */
+  /* border-bottom: 3px solid #ff7145; */
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 }
 
 /* main content section */
 
 .main-content-section {
-  padding: 25px 25px 25px 35px;
+  padding: 25px 25px 20px 30px;
   /* border-left: 3px solid black; 
   height: auto; */
 }
@@ -391,8 +394,7 @@ body {
   margin: 80px 0 0 35px;
 }
 
- 
-.author-link{
+.author-link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
